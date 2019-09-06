@@ -25,6 +25,7 @@ Since projects are voted upon by other teams you may want to describe bits of yo
  * [slp-sdk](https://github.com/Bitcoin-com/slp-sdk/) -- wrapped bitbox & slpjs sdk for slp development
  * [bitdb](http://bitdb.fountainhead.cash) -- query blockchain using mongodb
  * [bitsocket](http://bitsocket.fountainhead.cash) -- query incoming transactions and blocks using mongo subset
+ * [bch-cli-wallet](https://github.com/christroutner/bch-cli-wallet) -- Command line BCH wallet development tool
  * [bitbox](https://developer.bitcoin.com/bitbox/)  -- javascript framework for bch
  * [bitcoinfiles](https://github.com/simpleledger/slp-specifications/blob/master/bitcoinfiles.md) -- protocol for putting files on blockchain
  * [cashscript](https://github.com/Bitcoin-com/cashscript) -- Easily write and interact with cash contracts on Bitcoin Cash
