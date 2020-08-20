@@ -9,8 +9,8 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 ## The rules of the competition
 
 1. There is a maximum team size of 6 people.
-2. All projects must involve Simple Ledger Protocol.
-3. All team members should be present in the chat for the event and should have their GitHub connected.
+2. All projects must involve Bitcoin Cash & the Simple Ledger Protocol for the BCH track.  Entries that involve blockchains other than BCH may compete in the general track.
+3. All team members should be present in the [Discord Chat](https://discord.gg/NnmvC7c) for the event and should have their GitHub connected.
 4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
 5. All work on a project should be done at the hackathon.
 6. Teams can use an idea they had before the event.
@@ -54,4 +54,4 @@ So don't worry about coming up with the next big idea or building the next Faceb
 
 The competition is just a part of the hackathon. To make the most out of the event, try something new, teach other people, and make new friends!
 
-Happy Hacking from the SLPVH team!
+Happy Hacking from the BCH DevCon team!
