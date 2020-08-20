@@ -1,6 +1,6 @@
-# SLPVH Hackathon Rules
+# Bitcoin Cash DevCon III Hackathon Rules
 
-These are standard competition rules used at MLH Member Hackathons, modified for our use with SLPVH. 
+These are standard competition rules used at MLH Member Hackathons, modified for our use with BCH DevCon. 
 
 There are several documents in the _Hackathon Rules_:
 
