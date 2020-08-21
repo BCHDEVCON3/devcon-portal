@@ -50,6 +50,8 @@ It's important to note that these judging criteria do not include:
 
 So don't worry about coming up with the next big idea or building the next Facebook. You'll have plenty of time for that outside the hackathon. just focus on learning, having fun, and making new friends. At the end of the day the skills you learn and the friends you make might lead to the next big thing—but you don't have to do that to win a hackathon.
 
+__Judging Process__ - Judging will take place after the presentations and will be executed by the sponsors of the BCH DevCon.  Votes will be casted by sending BCH Devcon tokens to teams' SLP addresses.  Ranking will be determined by the team that got the most token votes, and prizes will be airdroped using an SLP dividend calculator.
+
 
 ## Remember!
 
