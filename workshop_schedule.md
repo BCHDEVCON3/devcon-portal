@@ -23,7 +23,7 @@ All times are noted in UTC
 *
 *
 * _18:00_ - Possible Workshop
-*
+* lightswarm124 - Introduction to Cashscript, a BCH TX scripting language
 *
 *
 * _22:00_ - Possible Workshop
