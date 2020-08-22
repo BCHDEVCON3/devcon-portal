@@ -7,7 +7,7 @@ All times are noted in UTC
 *
 *
 * _2:00_ - Possible Workshop
-*
+* trout - Introduction to the 'Cash Stack', How To Create BCH-based Web Apps
 *
 *
 * _6:00_ - Possible Workshop
