@@ -1,6 +1,6 @@
-# Bitcoin Cash DevCon III Hackathon Rules
+# Bitcoin Cash DevCon III Hackathon Portal
 
-These are standard competition rules used at MLH Member Hackathons as well as last year's SLPVH hackathon, and modified for our use with BCH DevCon. 
+The rules are standard competition rules used at MLH Member Hackathons as well as last year's SLPVH hackathon, and modified for our use with BCH DevCon. 
 
 There are several documents in the _Hackathon Rules_:
 
