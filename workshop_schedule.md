@@ -27,5 +27,5 @@ All times are noted in UTC
 *
 *
 * _22:00_ - Possible Workshop
-*
+* vin armani - Signal, Watch, and Pay (SWaP) Protocol
 *
