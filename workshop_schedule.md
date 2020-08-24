@@ -11,7 +11,7 @@ All times are noted in UTC
 *
 *
 * _6:00_ - Possible Workshop
-*
+* SLP - Introduction to Simple Ledger Protocol (SLP) Tokens
 *
 *
 * _10:00 - Possible Workshop
