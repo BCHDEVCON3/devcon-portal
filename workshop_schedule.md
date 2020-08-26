@@ -34,6 +34,6 @@ All times are noted in UTC
 
 *
 *
-*_02:00_ - Possible Workshop
+* _02:00_ - Possible Workshop
 *
 *
