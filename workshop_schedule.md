@@ -19,7 +19,7 @@ All times are noted in UTC
 *
 *
 * _14:00_ - Possible Workshop
-*
+* Fernando Pelliccioni - Introduction to Knuth C#/.NET API
 *
 *
 * _18:00_ - Possible Workshop
