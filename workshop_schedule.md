@@ -14,8 +14,8 @@ All times are noted in UTC
 * SLP - Introduction to Simple Ledger Protocol (SLP) Tokens
 *
 *
-* _10:00_ - Possible Workshop
-*
+* _10:00_ - Workshop
+* BIP70 - Earn Bitcoin Cash From Your App's Users The Easy Way In 12 Minutes Or Less
 *
 *
 * _14:00_ - Workshop
