@@ -6,24 +6,24 @@ All times are noted in UTC
 
 *
 *
-* _2:00_ - Workshop
-* trout - Introduction to the 'Cash Stack', How To Create BCH-based Web Apps
+* _2:00_ - trout - Introduction to the 'Cash Stack', How To Create BCH-based Web Apps
+* 
 *
 *
-* _6:00_ - Workshop
-* SLP - Introduction to Simple Ledger Protocol (SLP) Tokens
+* _6:00_ - SLP - Introduction to Simple Ledger Protocol (SLP) Tokens
+* 
 *
 *
-* _10:00_ - Workshop
-* BIP70 - Earn Bitcoin Cash From Your App's Users The Easy Way In 12 Minutes Or Less
+* _10:00_ - BIP70 - Earn Bitcoin Cash From Your App's Users The Easy Way In 12 Minutes Or Less
+* 
 *
 *
-* _14:00_ - Workshop
-* Fernando Pelliccioni - Introduction to Knuth C#/.NET API
+* _14:00_ - Fernando Pelliccioni - Introduction to Knuth C#/.NET API
+* 
 *
 *
-* _18:00_ - Workshop
-* lightswarm124 - Introduction to Cashscript, a BCH TX scripting language
+* _18:00_ - lightswarm124 - Introduction to Cashscript, a BCH TX scripting language
+* 
 * _20:00_ vin armani - Signal, Watch, and Pay (SWaP) Protocol
 *
 * _22:00_ - Workshop
