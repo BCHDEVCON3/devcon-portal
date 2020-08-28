@@ -24,7 +24,7 @@ All times are noted in UTC
 *
 * _18:00_ - Workshop
 * lightswarm124 - Introduction to Cashscript, a BCH TX scripting language
-* vin armani - Signal, Watch, and Pay (SWaP) Protocol
+* _20:00_ vin armani - Signal, Watch, and Pay (SWaP) Protocol
 *
 * _22:00_ - Workshop
 * 
