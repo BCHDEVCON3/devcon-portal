@@ -40,3 +40,14 @@ All times are noted in UTC
 *
 * _06:00_ - Possible Workshop
 * 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* _17:00_ - Tobias Ruck - Bitcoin Cash Smart Card Workshop
+*
