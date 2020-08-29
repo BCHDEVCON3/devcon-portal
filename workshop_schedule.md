@@ -26,8 +26,8 @@ All times are noted in UTC
 * 
 * _20:00_ vin armani - Signal, Watch, and Pay (SWaP) Protocol
 *
-* _22:00_ - Workshop
 * 
+* _23:00_ - Tobias Ruck - Bitcoin Cash Smart Cards
 *
 
 ## Saturday, September 5th
@@ -49,5 +49,5 @@ All times are noted in UTC
 *
 *
 *
-* _17:00_ - Tobias Ruck - Bitcoin Cash Smart Card Workshop
+* 
 *
