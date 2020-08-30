@@ -14,7 +14,7 @@ All times are noted in UTC
 * 
 *
 *
-* _10:00_ - BIP70 - Earn Bitcoin Cash From Your App's Users The Easy Way In 12 Minutes Or Less
+* _10:00_ - Possible Workshop
 * 
 *
 *
