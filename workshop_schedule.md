@@ -14,7 +14,7 @@ All times are noted in UTC
 * 
 *
 *
-* _10:00_ - Possible Workshop
+* _10:00_ - Intro to Bitcoin.com Link - Multi Wallet Provider SDK
 * 
 *
 *
