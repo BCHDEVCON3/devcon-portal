@@ -85,7 +85,7 @@ All times are noted in UTC
 
 ## Monday, September 8th
 
-*
+* _0:00_ Coding Stops
 *
 *
 *
