@@ -4,7 +4,7 @@ All times are noted in UTC
 
 ## Friday, September 4th
 
-*
+* _0:00_ - Opening Livestream Begins
 *
 * _2:00_ - trout - Introduction to the 'Cash Stack', How To Create BCH-based Web Apps [Zoom Link](https://us02web.zoom.us/j/89285042358)
 * 
@@ -28,7 +28,6 @@ All times are noted in UTC
 *
 * 
 * _23:00_ - Tobias Ruck - Bitcoin Cash Smart Cards [Zoom Link](https://us02web.zoom.us/j/82372380477)
-*
 
 ## Saturday, September 5th
 
@@ -44,10 +43,69 @@ All times are noted in UTC
 *
 *
 *
-*
-*
-*
-*
-*
 * 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+## Sunday, September 6th
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+## Monday, September 8th
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 *
