@@ -12,7 +12,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 2. All projects must involve Bitcoin Cash or the Simple Ledger Protocol for the BCH track.  Entries that involve blockchains other than BCH may compete in the general track.
 3. All team members should be present in the [Discord Chat](https://discord.gg/NnmvC7c) for the event and should have their GitHub connected.
 4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
-5. All work on a project should be done at the hackathon.
+5. All work on a project should be done at the hackathon within the time limits of September 4th, 0:00 UTC to September 6th, 23:59 UTC.
 6. Teams can use an idea they had before the event.
 7. Teams can work on ideas that have already been done. Hacks do not have to be “innovative”. If somebody wants to work on a common idea they should be allowed to do so and should be judged on the quality of their hack. These days it’s hard to find something that’s fully original and teams might not know an idea has been done before anyway.
 8. Teams can work on an idea that they have worked on before (as long as they do not re-use code).
