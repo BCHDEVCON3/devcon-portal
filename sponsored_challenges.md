@@ -14,4 +14,6 @@ This means participants can use the [AnyHedge Library](https://gitlab.com/Genera
 
 Also, a good starting point for AnyHedge and the BCH Price Oracle is the [beta documentation](https://read.cash/@GeneralProtocols/anyhedge-product-overview-0b4e9379)
 
+For help on your AnyHedge project, you can bring your questions to the [AnyHedge telegram chat](https://t.me/AnyHedge)
+
 Prize: $500 for top entry, $50 per participation.
