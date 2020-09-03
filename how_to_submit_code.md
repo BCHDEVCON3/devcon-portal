@@ -1,3 +1,4 @@
+# How to Submit Code
 All coding submission for BCH DevCon will be done in the [BCHDevConIII Github Organization](https://github.com/BCHDEVCON3). 
 To add your team to the [github organization](https://github.com/BCHDEVCON3), please reach out to AlternativeWinter#0016 on the [DevCon Discord](https://discord.gg/NnmvC7c), and include the following information:
 
@@ -6,3 +7,4 @@ To add your team to the [github organization](https://github.com/BCHDEVCON3), pl
 * Team Members Github Profiles
 * Team SLP Address
 
+All code must be submitted within the time limits acording to the DevCon [rules](rules.md)
